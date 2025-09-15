@@ -1,1 +1,2 @@
-const a= abc;s
+print = jery;
+prnt = mahasiswa;
