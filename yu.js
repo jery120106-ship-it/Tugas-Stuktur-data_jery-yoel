@@ -1,0 +1,1 @@
+print = nama_saya_jery
